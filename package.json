@@ -1,0 +1,24 @@
+{
+  "name": "wns_checkpoint_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev --respawn --transpile-only src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barret-Pierre/wns_checkpoint_back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barret-Pierre/wns_checkpoint_back/issues"
+  },
+  "homepage": "https://github.com/Barret-Pierre/wns_checkpoint_back#readme",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.4"
+  }
+}
